@@ -1,0 +1,20 @@
+*{
+    margin:0;
+    Padding:0;
+
+}
+.container {
+
+}
+.header-nav{
+    display:flex;
+    justify-content: space-between;
+    background-color: aqua;
+    padding: 16px;
+}
+.header-nav .one li{
+    display: inline-block;
+}
+.hero img{
+    width: 100%;
+}
